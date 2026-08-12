@@ -127,7 +127,7 @@ Airbnb and property hosts.
 
 ### Locally
 ```bash
-git clone https://github.com/<your-username>/bandung-raya-airbnb-analysis.git
+git clone https://github.com/goktani/bandung-raya-airbnb-analysis.git
 cd bandung-raya-airbnb-analysis
 pip install -r requirements.txt
 jupyter notebook bandung_airbnb_analysis.ipynb
